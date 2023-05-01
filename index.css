@@ -1,0 +1,35 @@
+body {
+  background-image: url("cloth.jpg");
+  background-size: cover;
+}
+h1 {
+  color: #cba74d;
+  font-size: 10vh;
+  text-align: center;
+}
+p {
+  font-size: 5vh;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+#one {
+  font-style: italic;
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  margin-top: 40px;
+  width: 180px;
+  background-color: #cba74d;
+  color: rgb(9, 100, 9);
+  font-size: larger;
+  border: none;
+  border-radius: 4px;
+  font-weight: bolder;
+  height: 35px;
+}
